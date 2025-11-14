@@ -79,4 +79,4 @@ We take security seriously. If you discover a security vulnerability, please ema
 
 **Building infrastructure for tomorrow's applications today.**
 
-*© 2024-2025 Atriarch Systems. All rights reserved.*
+*© 2019-2025 Atriarch Systems. All rights reserved.*
